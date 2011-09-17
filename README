@@ -1,0 +1,7 @@
+This is the version of ZedGraph used by LiteStock Professional.
+
+It currently features the following changes from the stock version of ZedGraph:
+
+-Added the ability to specify a secondary label with its own FontSpec for legend entries
+-Fixed the Windows 7 tooltip performance issue
+
