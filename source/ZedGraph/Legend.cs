@@ -1066,7 +1066,7 @@ namespace ZedGraph
                   break;
             }
          }
-         Debug.WriteLine(newRect);
+
          _rect = newRect;
       }
 
